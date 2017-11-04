@@ -5,6 +5,9 @@ bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
 
+#python
+*.zip
+
 # Other files and folders
 .settings/
 
